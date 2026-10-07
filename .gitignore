@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+data/
+collected/
+.env
+.env.*
+!.env.example
+credentials*
+
+# Generated pilot snapshots
+pilot.html
+
+.DS_Store
+
+.venv/
